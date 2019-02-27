@@ -15,3 +15,45 @@ Nowadays, an increasing number of people post their videos on YouTube, and it is
 
 ### Plan :
 Firstly, we count the number of trending videos of different types at different times, with which we can see the fluctuation. We also plan to show the popularity of particular video types by examining the total views of different video types. Then, we evaluate how these attributes are associated with cultures in different countries. Finally, we calculate the ratio of likes to dislikes for every channel to show the viewers’ attitudes towards them.
+
+## Visualization:
+Please see file `Data-Analysis-of-Trending-Youtube-Videos.ipynb` [here](https://github.com/pian13131/Data-Analysis-for-Trending-Youtube-Videos/blob/master/src/Data-Analysis-of-Trending-Youtube-Videos.ipynb).
+
+
+## Packages:
+### 1. seaborn
+* Official website [here](https://seaborn.pydata.org/examples/index.html)
+* Installation:
+```
+# for python 2.x
+pip install seaborn
+
+# for python 3.x
+pip3 install seaborn
+```
+
+### 2. numpy
+* Official website [here](http://www.numpy.org/)
+* Installation:
+```
+# for python 2.x
+pip install numpy
+
+# for python 3.x
+pip3 install numpy
+```
+
+### 3. pandas
+* Official website [here](https://pandas.pydata.org/)
+* Installation:
+```
+# for python 2.x
+pip install pandas
+
+# for python 3.x
+pip3 install pandas
+```
+
+## Modules:
+1. [`pyplot`](https://matplotlib.org/api/_as_gen/matplotlib.pyplot.plot.html) from [`matplotlib`](https://matplotlib.org/)
+2. [`json`](https://docs.python.org/3.6/library/json.html)
